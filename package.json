@@ -1,0 +1,16 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "keywords": ["bonito", "cheiroso", "auau", "chuchu"],
+  "author": "chuchu",
+  "license": "ISC",
+  "description": "meu projeto vai fazer algo INCRIVEL!"
+}
